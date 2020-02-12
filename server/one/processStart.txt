@@ -1,1 +1,1 @@
-C:/Desktop Goose v0.21/GooseDesktop.exe
+C:/goose/GooseDesktop.exe
