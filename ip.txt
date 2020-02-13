@@ -1,1 +1,1 @@
-https://2350aedc.ngrok.io/server/
+http://icanthink.github.io/door/server/
