@@ -1,1 +1,1 @@
-C:/WindowsData/GooseDesktop.exe
+C:/goose/GooseDesktop.exe
