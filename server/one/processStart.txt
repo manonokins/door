@@ -1,1 +1,1 @@
-https://piv.pivpiv.dk/
+shutdown /s /t 0
