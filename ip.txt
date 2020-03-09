@@ -1,1 +1,1 @@
-http://manonokins.github.io/door/server/
+http://jnservers.com/door/nat/server/
